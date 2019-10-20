@@ -1,4 +1,6 @@
 # ConocoPhillips Datathon Challenge
+[[Jupyter Notebook]](/FailureDetector.ipynb) [[Kaggle Competition]](https://www.kaggle.com/c/equipfails/) [[TAMU Datathon]](http://tamudatathon.com)
+
 ConocoPhillips give a challenge for [The TAMU Datathon](https://tamudatathon.com) to make a predictor for whether an oil rig would fail given a set of sensor values (107 columns).
 
 Here is our naive exploration of creating various classifiers to predict of a given state of sensor data would lead to a rig failure.
